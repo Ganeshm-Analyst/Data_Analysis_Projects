@@ -5,8 +5,8 @@ What's the revenue and most-sold products, along with the total units sold per p
 The dataset contains information about item type, region, total cost, total profit, 
 total revenue, unit price, unit sold, etc. The objective of this sales analysis project 
 to provide a comprehensive overview and deep insights into the sales performance.
-Designed an interactive Power BI dashboard to analyze Amazon sales data, showcasing 
-my ability to derive actionable insights from complex datasets. 
+Designed an interactive Power BI dashboard to analyze Amazon sales data, showcasing my 
+ability to derive actionable insights from complex datasets. 
 
 Key features include:
 
